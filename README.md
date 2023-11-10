@@ -17,8 +17,8 @@
 
 - 순서가 없는 목록
   - 대쉬 (hyphen)
-  * 더하기 (plus sign)
-  - 별표 (asterisk)
+  + 더하기 (plus sign)
+  * 별표 (asterisk)
 
 ### 링크 (Links)
 
@@ -61,3 +61,19 @@
 > 타인의 말이나 문장을 직접 또는 간접으로 가져온다.
 >> 인용문1
 >>> 인용문2
+
+
+### 수평선 (Morizental Rule)
+각 기호를 3개 이상 입력하면 된다
+---
+(hyphen)
+***
+(asterisk)
+___
+(Underscores)
+
+
+### 줄바꿈 (line breaks)
+바다<br>
+하늘   <!--띄어쓰기 2번 이상>   
+구름
